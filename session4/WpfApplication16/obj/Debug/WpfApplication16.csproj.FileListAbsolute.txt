@@ -1,0 +1,15 @@
+c:\users\владислав\documents\visual studio 2013\Projects\WpfApplication16\WpfApplication16\bin\Debug\WpfApplication16.exe.config
+c:\users\владислав\documents\visual studio 2013\Projects\WpfApplication16\WpfApplication16\bin\Debug\WpfApplication16.exe
+c:\users\владислав\documents\visual studio 2013\Projects\WpfApplication16\WpfApplication16\bin\Debug\WpfApplication16.pdb
+c:\users\владислав\documents\visual studio 2013\Projects\WpfApplication16\WpfApplication16\obj\Debug\WpfApplication16.csprojResolveAssemblyReference.cache
+c:\users\владислав\documents\visual studio 2013\Projects\WpfApplication16\WpfApplication16\obj\Debug\MainWindow.baml
+c:\users\владислав\documents\visual studio 2013\Projects\WpfApplication16\WpfApplication16\obj\Debug\Window1.baml
+c:\users\владислав\documents\visual studio 2013\Projects\WpfApplication16\WpfApplication16\obj\Debug\MainWindow.g.cs
+c:\users\владислав\documents\visual studio 2013\Projects\WpfApplication16\WpfApplication16\obj\Debug\Window1.g.cs
+c:\users\владислав\documents\visual studio 2013\Projects\WpfApplication16\WpfApplication16\obj\Debug\App.g.cs
+c:\users\владислав\documents\visual studio 2013\Projects\WpfApplication16\WpfApplication16\obj\Debug\WpfApplication16_MarkupCompile.cache
+c:\users\владислав\documents\visual studio 2013\Projects\WpfApplication16\WpfApplication16\obj\Debug\WpfApplication16.g.resources
+c:\users\владислав\documents\visual studio 2013\Projects\WpfApplication16\WpfApplication16\obj\Debug\WpfApplication16.Properties.Resources.resources
+c:\users\владислав\documents\visual studio 2013\Projects\WpfApplication16\WpfApplication16\obj\Debug\WpfApplication16.csproj.GenerateResource.Cache
+c:\users\владислав\documents\visual studio 2013\Projects\WpfApplication16\WpfApplication16\obj\Debug\WpfApplication16.exe
+c:\users\владислав\documents\visual studio 2013\Projects\WpfApplication16\WpfApplication16\obj\Debug\WpfApplication16.pdb
